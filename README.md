@@ -1,5 +1,8 @@
 # 🧠 **NeuroCare – AI-Powered Cognitive Health Detection**
 
+### 🔗 **Live Demo:**  
+https://neuro-care-xi.vercel.app/
+
 <div align="center">
   <img src="/assests/dashboard.png" alt="Dashboard Preview" width="450"/> 
 </div>
@@ -90,8 +93,8 @@ Users receive a clear summary of their performance and potential cognitive marke
   <img src="/assests/negativeresult.jpeg" alt="Negative Result" width="250"/>
 </p>
 
-> 🧠 Real-time feedback
-> 📈 Cognitive performance visualization
+> 🧠 Real-time feedback  
+> 📈 Cognitive performance visualization  
 > 🩺 AI-backed emotional and attention insights
 
 ---
@@ -111,7 +114,7 @@ Users receive a clear summary of their performance and potential cognitive marke
 ## 💡 **Conclusion**
 
 **NeuroCare** merges neuroscience and interactivity into a single digital experience.
-With every move, click, and expression, it helps uncover subtle cognitive patterns —
+With every move, click, and expression, it helps uncover subtle cognitive patterns —  
 turning technology into awareness and play into insight.
 
 > The future of cognitive care begins **not in a clinic — but in your browser.**
